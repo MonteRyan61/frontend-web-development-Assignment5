@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;;AAWA","sources":["main.css"],"sourcesContent":["#content{\n    display: flex;\n    flex-flow:column;\n    align-items: center;\n}\nh4{\n    display: flex;\n    flex-flow:column;\n    align-items: center;\n}\n\nimg{\n    border-radius: 10%;\n    opacity: 0.5;\n}\n"],"names":[],"version":3,"file":"index.e5980c4e.css.map","sourceRoot":"/__parcel_source_root/"}
