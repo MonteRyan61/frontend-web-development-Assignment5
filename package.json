@@ -2,7 +2,6 @@
     "name": "assignment5",
     "version": "1.0.0",
     "description": "",
-    "main": "main.js",
     "scripts": {
         "dev": "npx parcel index.html",
         "build": "npx parcel build index.html"
